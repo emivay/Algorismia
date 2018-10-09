@@ -15,8 +15,6 @@ void escribir () {
 	cout << '}' << endl;	
 	
 }
-	
-
 
 void f(int i) {
 	if (i == n) return escribir ();
